@@ -5,6 +5,7 @@ This Project Done by 06.06.2020 but the source code will be available until the 
 
 ## Face Mask Detection using Tensorflow, Keras, Opencv, Python :
  [![Face Mask Detection Using | Convolutional Neural Networks | Tensorflow | Python |](https://yt-embed.herokuapp.com/embed?v=wfK5N9Qq1uk)](https://www.youtube.com/watch?v=wfK5N9Qq1uk "Face Mask Detection Using | Convolutional Neural Networks | Tensorflow | Python |")
+ 
 ## Requirement’s:
 ```
 • Python 
@@ -68,10 +69,6 @@ Sujit Mandal
 
 [GitHub](https://github.com/sujitmandal)
 
-[PyPI](https://pypi.org/project/images-into-array/)
+[PyPI](https://pypi.org/user/sujitmandal/)
 
 [LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
-
-[Facebook](https://www.facebook.com/sujit.mandal.33671748)
-
-[Twitter](https://twitter.com/mandalsujit37)
