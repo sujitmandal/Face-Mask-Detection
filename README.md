@@ -1,11 +1,12 @@
 ## Face-Mask-Detection:
 Face Mask Detection Using Tensorflow, opencv, python, keras.
-This Project Done by 06.06.2020 but the source code will be available until the total work done.
+This Project Done by 06.06.2020
 ------------------------------------------------------------------------------------------------
 
-## Output
+## Reacher Paper Link:
+• [Reacher Paper Link](https://link.springer.com/article/10.1007/s40031-023-00945-5?fbclid=IwAR1cq2LEizMMK4UaIpU1X4EpJccjRR1OrpVspd6Wywkw4mCqD7AJsjIEX7Y)
 
-![](https://github.com/sujitmandal/Face-Mask-Detection/blob/master/output/output.gif)
+[](https://github.com/sujitmandal/Face-Mask-Detection/blob/master/output/output.gif)
 
 
 ## Face Mask Detection using Tensorflow, Keras, Opencv, Python :
